@@ -295,7 +295,7 @@ body {
 
 .cardTime {
     background: #fff;
-    width: 270px;
+    width: 300px;
     height: 400px;
     margin: 30px;
     border-radius: 4px;
@@ -306,6 +306,7 @@ body {
 
 .cardTime img {
     width: 100%;
+    height: auto;
 }
 
 .cardTime h4 {
